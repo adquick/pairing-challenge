@@ -1,4 +1,4 @@
-# Pairing Challenge
+# Pairing Challenge Base Application
 
 ### Setup
 
